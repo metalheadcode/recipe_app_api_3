@@ -44,3 +44,9 @@ class ModelTests(TestCase):
 
         self.assertTrue(user.is_superuser)
         self.assertTrue(user.is_staff)
+
+
+# apa yang aku faham stakat ni
+# test ni apa yang running dekat shell
+# kalau dekat shell, aku nak create object untuk masuk dalam db
+# contoh Post('column1':'')
